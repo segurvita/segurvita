@@ -2,4 +2,4 @@
 [![](https://raw.githubusercontent.com/segurvita/segurvita/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/segurvita/segurvita/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=segurvita&color=green) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/segur/contributions.svg)](http://qiita.com/segur)
+![](https://komarev.com/ghpvc/?username=segurvita&color=green)
