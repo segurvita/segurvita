@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/segurvita/segurvita/master/profile-summary-card-output/swift/2-most-commit-language.svg)
-```
-
-    
